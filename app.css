@@ -1,0 +1,38 @@
+
+.root {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0;
+    background-color: #6cc3e6;
+    margin-bottom: 100px;
+}
+
+.for_styling1 {
+    margin-top: 6%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50%;
+}
+
+.for_styling2 {
+    margin-top: 6%;
+    margin-right: 100px;
+    margin-bottom: 50%;
+}
+
+@media (max-width: 900px) {
+    .root{
+        flex-direction: column;
+    }
+    .for_styling1 {
+        margin: 6% auto;
+    }
+    
+    .for_styling2 {
+        margin-top: 3%;
+        margin: 0 auto;
+        margin-bottom: 25%;
+    }
+
+}
