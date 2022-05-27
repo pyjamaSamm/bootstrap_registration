@@ -18,5 +18,5 @@ This form makes use of local storage to store data. For demonstration purpose, r
 ![gulafsha_reg1](https://user-images.githubusercontent.com/74822950/170765989-288e1d3a-03d3-4932-929a-df29706d2721.png)
 
 Video demonstration:
-Uploading gulafsha_register_vid.mov…
+https://drive.google.com/file/d/1PY_O2RdZG7TSb9aRzrZm7NkjNVu17lhx/view?usp=sharing
 
